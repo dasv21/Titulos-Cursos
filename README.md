@@ -4,6 +4,12 @@ En este repositorio encontrarás una colección de todos los diplomas académico
 
 ## ¿Qué encontrarás aquí?
 
+Todos los diplomas académicos están organizados en carpetas por tipos. Cada una de estas carpetas lleva el nombre del tipo respectivo: 
+
+Cursos Programacion/
+Cursos Refrigeracion/
+Titulo Universitario/
+
 Una vez dentro, encontrarás los diplomas correspondientes, denominados en función de su título. Los diplomas están en formato PDF ya que es uno de los formatos más populares y soportados. A medida que siga recibiendo nuevos diplomas, planeo agregarlos a esta colección.
 
 ## Intención 
